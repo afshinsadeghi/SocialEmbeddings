@@ -1,6 +1,6 @@
 ## TW52 Dataset 
 
-The anonymised dataset of medical users and tweets
+The anonymised dataset of medical users and Tweets of the year 2019(January- Jun) extracted on Jun 2019. 
 
 This dataset is in created in the paper:
 
