@@ -17,6 +17,7 @@ This Dataset is extracted in the study : Embedding Knowledge Graphs Attentive to
 ### Citation :
 If you use the dataset, please cite the following paper:
 
+```
 @inproceedings{sadeghi2019linking,
   title={Linking physicians to medical research results via knowledge graph embeddings and Twitter},
   author={Sadeghi, Afshin and Lehmann, Jens},
@@ -25,3 +26,4 @@ If you use the dataset, please cite the following paper:
   year={2019},
   organization={Springer}
 }
+```
